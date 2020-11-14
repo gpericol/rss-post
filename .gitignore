@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+config/credentials.json
+data/auth_token.pickle
+data/db.json
