@@ -1,7 +1,6 @@
 from const import *
 import feedparser
 from tinydb import TinyDB, Query
-import facebook
 import requests
 import json
 
